@@ -16,6 +16,7 @@ lang-ref: index
 
 - [Задачи]({{ site.baseurl }}/задачи)
 - [Работы]({{ site.baseurl }}/работы)
+- [Налоги]({{ site.baseurl }}/налоги)
 
 ### "Проект"
 
