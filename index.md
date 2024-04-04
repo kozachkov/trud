@@ -14,6 +14,8 @@ lang-ref: index
 
 ## Другое
 
+- [Задачи]({{ site.baseurl }}/задачи)
+
 ### "Проект"
 
 * [О замыслах ("проектах")]({{ site.baseurl }}/ru/work/project)
